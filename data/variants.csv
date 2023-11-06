@@ -1,0 +1,85 @@
+ID,Simplified,Pinyin,POS,Example
+L1-0004,爸爸,bàba,N,
+L1-0004,爸,bà,N,
+L1-0074,弟弟,dìdi,N,
+L1-0074,弟,dì,N,
+L1-0075,第,dì,Prefix,
+L1-0075,第二,dì-èr,Num,1
+L1-0118,哥哥,gēge,N,
+L1-0118,哥,gē,N,
+L1-0178,姐姐,jiějie,N,
+L1-0178,姐,jiě,N,
+L1-0216,零,líng,Num,
+L1-0216,〇,líng,Num,
+L1-0224,妈妈,māma,N,
+L1-0224,妈,mā,N,
+L1-0237,妹妹,mèimei,N,
+L1-0237,妹,mèi,N,
+L1-0241,们,men,Suffix,
+L1-0241,朋友们,péngyoumen,N,1
+L1-0325,谁,shéi,Pr,
+L1-0325,谁,shuí,Pr,
+L1-0444,有时候,yǒushíhou,Adv,
+L1-0444,有时,yǒushí,Adv,
+L1-0445,有些,yǒuxiē,Pr,
+L1-0445,有一些,yǒuyìxiē,Pr,
+L1-0489,子,zi,Suffix,
+L1-0489,桌子,zhuōzi,N,1
+L2-0062,称,chēng,V,
+L2-0257,家,jiā,Suffix,
+L2-0257,科学家,kēxuéjiā,N,1
+L2-0340,老,lǎo,Prefix,
+L2-0340,老王,Lǎo Wáng,Name,1
+L2-0377,面,miàn,N/M,
+L2-0378,面,miàn,N,
+L2-0390,那时候,nà shíhou,,
+L2-0390,那时,nà shí,,
+L2-0500,熟,shú,Adj,
+L2-0500,熟,shóu,Adj,
+L2-0550,头,tou,Suffix,
+L2-0550,里头,lǐtou,N,1
+L2-0602,小,xiǎo,Prefix,
+L2-0602,小王,Xiǎo Wáng,Name,1
+L2-0686,有点儿,yǒudiǎnr,Adv,
+L2-0686,有一点儿,yǒuyìdiǎnr,Adv,
+L2-0722,这时候,zhè shíhou,,
+L2-0722,这时,zhè shí,,
+L3-0103,初,chū,Prefix,
+L3-0103,初一,chūyī,N,1
+L3-0301,化,huà,Suffix,
+L3-0301,现代化,xiàndàihuà,Suffix,
+L3-0318,极了,jí le,Suffix,
+L3-0810,性,xìng,Suffix,
+L3-0810,积极性,jījíxìng,N,1
+L3-0869,员,yuán,Suffix,
+L3-0869,服务员,fúwùyuán,N,1
+L3-0885,者,zhě,Suffix,
+L3-0885,志愿者,zhìyuànzhě,N,1
+L4-0242,分之,fēn zhī,,
+L5-0087,差点儿,chàdiǎnr,Adv,
+L5-0087,差一点儿,chàyìdiǎnr,Adv,
+L5-0101,称,chēng,V,
+L5-0559,品,pǐn,Suffix,
+L5-0559,工艺品,gōngyìpǐn,N,1
+L6-0368,好容易,hǎoróngyì,Adj,
+L6-0368,好不容易,hǎobùróngyì,Adj,
+L6-0453,界,jiè,Suffix,
+L6-0453,文艺界,wényìjiè,N,1
+L6-0536,力,lì,Suffix,
+L6-0536,影响力,yǐngxiǎnglì,N,1
+L6-1043,长,zhǎng,Suffix,
+L6-1043,秘书长,mìshūzhǎng,N,1
+L6-1128,族,zú,Suffix,
+L6-1128,上班族,shàngbānzú,N,1
+L7-0948,度,dù,Suffix,
+L7-0948,知名度,zhīmíngdù,N,1
+L7-1095,非,fēi,Prefix,
+L7-1095,非金属,fēijīnshǔ,N,1
+L7-1257,感,gǎn,Suffix,
+L7-1257,责任感,zérèngǎn,N,1
+L7-2733,率,lǜ,Suffix,
+L7-2733,成功率,chénggōnglǜ,N,1
+L7-2799,茅台,Máotái,N,
+L7-2799,茅台酒,Máotáijiǔ,N,
+L7-4858,业,yè,Suffix,
+L7-4858,服务业,fúwùyè,N,1
