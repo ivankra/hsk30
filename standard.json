@@ -1,0 +1,9 @@
+{
+    "standard": "gf0025-2021",
+    "applies_to": [
+        "hsk30.csv",
+        "hsk30-expanded.csv",
+        "hsk30-chars.csv"
+    ],
+    "$comment": "These lists follow 国际中文教育中文水平等级标准 (GF0025-2021), in force since July 2021, not the 2025 HSK examination syllabus that the HSK 3.0 exam follows from 13 December 2026."
+}
